@@ -45,6 +45,7 @@ def join(message):
     emit('test', "Hey room " + message['room'] + "!", room=message['room'])
     print("sending message to room", message['room'])
 
+
 # receive pings and send pongs after 1s
 @socketio.on('my_ping', namespace='/agent')
 @socketio.on('my_ping', namespace='/humanagent')
