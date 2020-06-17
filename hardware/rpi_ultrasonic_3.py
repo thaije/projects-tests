@@ -38,9 +38,16 @@ def distance():
     # and divide by 2, because there and back
     distance = (TimeElapsed * 34300) / 2
 
+    distance = round(distance, 2)
+
     return distance
 
 if __name__ == '__main__':
+    print("Waiting for sensor to settle..")
+    GPIO.output(GPIO_TRIGGER, False)
+    time.sleep(2)
+    print("Starting measurement")
+
     try:
         while True:
             dist = distance()
