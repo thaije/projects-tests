@@ -25,3 +25,6 @@ time.sleep(1)
 
 print("LED 220 ohm off")
 GPIO.output(20,GPIO.LOW)
+
+
+GPIO.cleanup()

@@ -71,3 +71,4 @@ if __name__ == '__main__':
         print (f"Reading {r}: {getRangeUltrasound()}")
         time.sleep(0.02)
         r += 1
+    GPIO.cleanup()

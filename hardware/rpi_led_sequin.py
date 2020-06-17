@@ -13,3 +13,5 @@ time.sleep(1)
 
 print("Sequin off")
 GPIO.output(21,GPIO.LOW)
+
+GPIO.cleanup()
