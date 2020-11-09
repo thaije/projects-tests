@@ -1,0 +1,14 @@
+{
+  "legend_label": "Russia sentiment",
+  "data": {
+    "Latvia": {
+      "value": -0.1
+    },
+    "Lithuania": {
+      "value": -7.8
+    },
+    "Estonia": {
+      "value": 0.5
+    }
+  }
+}

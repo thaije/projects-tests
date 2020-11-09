@@ -1,0 +1,37 @@
+{
+  "legend_label": "Ethnicity in Lithuania",
+  "data": [
+    {
+      "value": 0.1,
+      "category": "Latvian"
+    },
+    {
+      "value": 0.2,
+      "category": "Estonian"
+    },
+    {
+      "value": 78.6,
+      "category": "Lithuanian"
+    },
+    {
+      "value": 1.7,
+      "category": "Belarusian"
+    },
+    {
+      "value": 6.4,
+      "category": "Polish"
+    },
+    {
+      "value": 0.2,
+      "category": "Ukraine"
+    },
+    {
+      "value": 5.8,
+      "category": "Russian"
+    },
+    {
+      "value": 7,
+      "category": "Other"
+    }
+  ]
+}

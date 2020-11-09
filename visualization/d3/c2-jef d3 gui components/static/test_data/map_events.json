@@ -1,0 +1,33 @@
+{
+  "map_lable": "Russia sentiment",
+  "map_center": [37.41, 8.82],
+  "events": [
+    {
+      "name": "Military Parachute Vasylisks",
+      "type": "Event",
+      "description": "A farmer has found a military parachute close to his premises",
+      "date": "2020-02-15",
+      "time": 830,
+      "latitude": 54.715477,
+      "longitude": 25.025398
+    },
+    {
+      "name": "Border crossing Rus 1",
+      "type": "Event",
+      "description": "Border guards arrested two people trying to sneak into Lithuania",
+      "date": "2020-02-19",
+      "time": 845,
+      "latitude": 54.921266,
+      "longitude": 25.819180
+    },
+    {
+      "name": "Damaged Farmland Vievis 1",
+      "type": "Event",
+      "description": "Farmland crops have been damaged by non-natural causes",
+      "date": "2020-02-18",
+      "time": 1300,
+      "latitude": 54.770064,
+      "longitude": 24.801876
+    }
+  ]
+}

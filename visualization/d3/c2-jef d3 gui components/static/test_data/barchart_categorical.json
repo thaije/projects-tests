@@ -1,0 +1,30 @@
+[
+  {
+    "value": 66.38,
+    "category": "San Francisco"
+  },
+  {
+    "value": 23.37,
+    "category": "New York"
+  },
+  {
+    "value": 34.17,
+    "category": "Tokyo"
+  },
+  {
+    "value": 59.05,
+    "category": "Mexico category"
+  },
+  {
+    "value": 14.77,
+    "category": "Seoul"
+  },
+  {
+    "value": 28.93,
+    "category": "Beijing"
+  },
+  {
+    "value": 34.34,
+    "category": "London"
+  }
+]
