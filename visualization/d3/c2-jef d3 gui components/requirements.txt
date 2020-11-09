@@ -1,4 +1,4 @@
 Flask==1.1.1
-requests==2.7.0
+requests==2.20.0
 sparqlwrapper==1.8.5
 flask-cors>=3.0.0
